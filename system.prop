@@ -11,4 +11,4 @@ ro.sys.usb.storage.type=mtp
 ro.vendor.mediatek.platform=MT6985
 
 # Timezone
-persist.sys.timezone="Asia/Shanghai"
+persist.sys.timezone="Europe/Istanbul"
